@@ -7,7 +7,7 @@
   "assets": [
     {
       "source": "app.py",
-      "target": "/root/app.py"
+      "target": "app.py"
     }
   ]
 }
