@@ -4,4 +4,10 @@
   "backend": {
     "imageid": "ubuntu"
   }
+  "setup": {
+    "commands": [
+      "cp app.py /root/app.py",
+      "chmod +x /root/app.py"
+    ]
+  }
 }
