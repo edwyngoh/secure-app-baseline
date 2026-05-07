@@ -3,7 +3,7 @@
   "description": "Production-grade systemd service with externalized secrets, reload, and health checks",
   "backend": {
     "imageid": "ubuntu"
-  }
+  },
   "setup": {
     "commands": [
       "cp app.py /root/app.py",
